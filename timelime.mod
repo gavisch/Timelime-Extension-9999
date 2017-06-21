@@ -5,4 +5,4 @@ tags={
 	"gameplay"
 }
 picture="timelime.png"
-supported_version="1.21.*.*"
+supported_version="1.22.*.*"
